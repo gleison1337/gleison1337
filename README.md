@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Gleison%20Andrade&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Dev%20Full%20Stack%20Web%20%7C%20Automation%20%7C%20IT%20Support&descAlignY=51&descAlign=62&fontColor=2F9BF7)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Gleison%20Andrade&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Dev%20Full%20Stack%20Web%20%7C%20Automation%20%7C%20IT%20Support&descAlignY=51&descAlign=62&fontColor=ffffff)
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3382ED&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%26+IT+Analyst;Automa%C3%A7%C3%A3o+com+Python+%26+PowerShell;Expert+em+Infraestrutura+Windows%2FLinux;Visite+meu+portf%C3%B3lio%3A+gleison.site" alt="Typing SVG" />
