@@ -11,7 +11,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou um profissional híbrido: uno a solidez da **Infraestrutura de T.I.** com a criatividade do **Desenvolvimento Full Stack**. Minha missão é eliminar o trabalho repetitivo através de automação e criar interfaces web robustas. Tenho facilidade em transitar entre servidores Linux/Windows e códigos complexos.
+Mais do que escrever código, eu construo ecossistemas. Graduando em Desenvolvimento Full Stack, atuo na criação de soluções SaaS escaláveis para diversos setores, como Logística (IoT/Telemetria), Food Service e Gestão Corporativa em projetos privados e paralelos. Transformo necessidades complexas de negócio em software robusto, desde o banco de dados até a interface do usuário
 
 - 🔭 Atualmente trabalhando no **TechTool Kit (Automação de Suporte)**
 - 🌐 Meu Portfolio Oficial: **[gleison.site](https://gleison.site)**
@@ -78,10 +78,10 @@ Sou um profissional híbrido: uno a solidez da **Infraestrutura de T.I.** com a 
   <a href="https://gleison.site" target="_blank">
     <img src="https://img.shields.io/badge/Website-gleison.site-2F9BF7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
-  <a href="mailto:seu_email@aqui.com">
+  <a href="mailto:guesantos7118@gmail.com">
     <img src="https://img.shields.io/badge/Email-Fale_Comigo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://linkedin.com/in/seu-linkedin">
+  <a href="www.linkedin.com/in/gleison-andrade-4a5454359">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
