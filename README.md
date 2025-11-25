@@ -1,9 +1,9 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Gleison%20Andrade&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Automation%20%7C%20IT%20Support%20%7C%20Python&descAlignY=51&descAlign=62&fontColor=2F9BF7)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Gleison%20Andrade&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Dev%20Full%20Stack%20Web%20%7C%20Automation%20%7C%20IT%20Support&descAlignY=51&descAlign=62&fontColor=2F9BF7)
 
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3382ED&center=true&vCenter=true&width=600&lines=Transformando+caf%C3%A9+em+automa%C3%A7%C3%A3o;Especialista+em+Service+Desk+N1%2FN2;Criador+de+solu%C3%A7%C3%B5es+em+Python;Visite+meu+portf%C3%B3lio%3A+gleison.site" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3382ED&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%26+IT+Analyst;Automa%C3%A7%C3%A3o+com+Python+%26+PowerShell;Expert+em+Infraestrutura+Windows%2FLinux;Visite+meu+portf%C3%B3lio%3A+gleison.site" alt="Typing SVG" />
   </a>
 </div>
 
@@ -11,11 +11,11 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou um profissional de Tecnologia da Informação apaixonado por **eficiência**. Minha missão é eliminar o trabalho repetitivo do suporte técnico através de scripts inteligentes e automação. Tenho experiência sólida em infraestrutura Windows e estou focado no desenvolvimento de ferramentas para otimização de Service Desk.
+Sou um profissional híbrido: uno a solidez da **Infraestrutura de T.I.** com a criatividade do **Desenvolvimento Full Stack**. Minha missão é eliminar o trabalho repetitivo através de automação e criar interfaces web robustas. Tenho facilidade em transitar entre servidores Linux/Windows e códigos complexos.
 
 - 🔭 Atualmente trabalhando no **TechTool Kit (Automação de Suporte)**
 - 🌐 Meu Portfolio Oficial: **[gleison.site](https://gleison.site)**
-- 💡 Interesse em: **SaaS para T.I., Chatbots (RAG), Python e Azure**
+- 💡 Foco: **SaaS, Desenvolvimento Web, CyberSecurity e Automação**
 
 ---
 
@@ -23,25 +23,33 @@ Sou um profissional de Tecnologia da Informação apaixonado por **eficiência**
 
 <div align="center">
 
-**Linguagens & Scripting**
+**💻 Linguagens & Backend**
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-<img src="https://img.shields.io/badge/Batch_Script-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 
-<br>**Infraestrutura & Sistema**<br>
+<br>**🎨 Frontend & Web**<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<br>**🐧 Sistemas Operacionais & Infra**<br>
 <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Office_365_Admin-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
 <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 
-<br>**Ferramentas & Dev**<br>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<br>**🔧 Ferramentas & DevOps**<br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
 </div>
 
@@ -58,7 +66,7 @@ Sou um profissional de Tecnologia da Informação apaixonado por **eficiência**
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gleison1337&theme=tokyonight&hide_border=true" alt="Gleison's Streak" />
+  <img src="https://streak-stats.demolab.com?user=gleison1337&theme=tokyonight&hide_border=true" alt="Gleison's Streak" />
 </div>
 
 ---
