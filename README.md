@@ -9,9 +9,20 @@
 
 ### 👨‍💻 Sobre Mim
 
-Mais do que escrever código, eu construo ecossistemas. Graduando em Desenvolvimento Full Stack, atuo na criação de soluções SaaS escaláveis para diversos setores, como Logística (IoT/Telemetria), Food Service e Gestão Corporativa em projetos privados e paralelos. Transformo necessidades complexas de negócio em software robusto, desde o banco de dados até a interface do usuário
+​🇧🇷 Português:
 
-- 🔭 Atualmente trabalhando no **TechTool Kit (Automação de Suporte)**
+​Sobre meus Repositórios:
+Recentemente, decidi migrar para este novo perfil para organizar minha presença digital. Meu objetivo é manter o foco em soluções corporativas e automação, trazendo apenas códigos que representam meu nível técnico atual. Projetos antigos e experimentos iniciais foram deixados para trás para dar espaço a uma visão mais limpa e profissional do meu trabalho.
+
+
+​🇺🇸 English:
+
+​About My Repositories:
+I recently decided to migrate to this new profile to streamline my digital presence. My goal is to focus on enterprise solutions and automation, showcasing only the code that represents my current technical level. Older projects and early experiments have been left behind to make room for a cleaner, professional view of my work.
+
+Transformo necessidades complexas de negócio em software robusto, desde o banco de dados até a interface do usuário
+
+- 🔭 Atualmente trabalhando no ** N1 Tool (Automação de Suporte)**
 - 🌐 Meu Portfolio Oficial: **[gleison.site](https://gleison.site)**
 - 💡 Foco: **SaaS, Desenvolvimento Web, CyberSecurity e Automação**
 
