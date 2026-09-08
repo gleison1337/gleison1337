@@ -22,7 +22,7 @@ I recently decided to migrate to this new profile to streamline my digital prese
 
 Transformo necessidades complexas de negócio em software robusto, desde o banco de dados até a interface do usuário
 
-- 🔭 Atualmente trabalhando no ** N1 Tool (Automação de Suporte)**
+- 🔭 Atualmente trabalhando no **N1 Tool (Automação de Suporte)**
 - 🌐 Meu Portfolio Oficial: **[devati.com.br](https://devati.com.br)**
 - 💡 Foco: **SaaS, Desenvolvimento Web, CyberSecurity e Automação**
 
